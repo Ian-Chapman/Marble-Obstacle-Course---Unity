@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpinTrap
+  - Spikes
+  - Speed Up Zone
+  - Slow Down Zone
+  - Door1
+  - Door2
+  - Ground
+  - Springy Platform
+  - Spikes2
+  - Spikes3
+  - SpinTrap2
+  - SpinTrap3
+  - Ice
+  - BounceWall
+  - Kill Floor1
+  - Kill Floor2
+  - Kill Floor3
+  - Deathball
+  - Ice Key
+  - Bounce Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
